@@ -9,7 +9,7 @@ To determine patient's diabetes status, a model can be used to accurately predic
 
 ## About the Datasets
 
-The data used can be found [here](https://www.kaggle.com/)
+The data used can be found [here]([https://www.kaggle.com/](https://www.kaggle.com/datasets/mrsimple07/diabetes-prediction))
 
 ## Dependences
 
